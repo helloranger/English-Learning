@@ -11,21 +11,72 @@
 `有序来源于受益`
 # Part1 Pronounce  
 ![1](./1.png)
-# Part2 Listening
+```
+- 音节：辅音+元音构成，以元音为核心
+- 学习三部曲：`查，拼，听`
+- 重音浊化
+```
+- There are four seasons in a year.
+  
 
-## 一、会面与闲聊
+# Part2 Listening
+## Warm-up 
+
+- 三步训练法：听，听写，跟读
+
+Meeting and Chatting （会面与闲聊）
+![2](./2.png)
+```
+What's your name?
+  - My name's ...
+  - I'm
+Do you have an English name?
+  - Yujie
+
+Names: 
+  - Arturo/Mexico/Mexican
+  - Alexa/Brazil/Brazilian
+  - Soo-jin/South Korea/South Korean
+
+
+
+My name is Danielle, but you can call me Dan/but please call me Dan.
 
 ```
+- ⚠️ 语言的前面不能加定冠词 the
+- ⚠️ 不能用逗号连接两个英文句子，可以加个 but。
+
+## Conversation
+![2](./13.png)
+## Questions：
+你是哪里人
+Where are they from respectively?
+
+Where are you from?
+  - I'm from ...
+Where does XX come from? 
+
+What nationality is XX? 
+He is Mexican.
+
+
+
+## Culture and Custom（文化习俗）
 name = given name
-last name = family name = surname 姓
+family name = surname 姓
 full name 全名
 first name 名
 last name 姓
 
+
 ❗️ first 和 last指位置，具体含义取决于文化背景。
 
 eg：In Chinese culture, the first name is family name.
-```
+
+## Conversation
+![](./10.png)
+
+This is XXX. These are my workmates.
 
 - melting pot 大熔炉
 - respectively 各自的
@@ -33,13 +84,16 @@ eg：In Chinese culture, the first name is family name.
 - win-win 双赢
 
 
+- 描述是老乡
+  - We're from the same city/county.
+
+
 - 描述来自哪里
   - I'm from XinZhou city, Shanxi Province.
 - 如何拼写
   - How do you spell that？
 
-## 二、
-Key Points:
+## Key Points:
 1. call sb... 
    - You can call me Danielle
 2. This is ... （这位是...）
@@ -50,6 +104,8 @@ Key Points:
 
 - 国家名称
 - nationality 国籍，民族
+
+需要背下来‼️
 ![1](./4.png)
 
 询问国籍
@@ -61,12 +117,18 @@ Key Points:
 
 - When you are in Rome, do as the Romans do. (入乡随俗)
 
-## Part3 Grammer
+# Part3 Grammer
+需要背下来‼️
+![](./11.png)
 `be动词 + 形容词性物主代词 + 疑问词`
 
-- `系动词=Be动词+渐变动词 become，turn，get...+感官动词
-`
+
 - be = is/am/are（be是 is，am，are的原型）
+- 主系表
+  - 系动词 = Be动词 + 渐变动词 becomde, turn, get..+感官动词
+
+`Be动词使用规则`
+我用 am，你用 are， is跟着他她它，复数人称都用 are。
 - `物主代词`：xx的
 
 ![1](./6.png)
@@ -83,6 +145,20 @@ Key Points:
 - 特殊疑问词
 ![1](./7.png)
 
+## Greeting
 
-## Part4 Speaking
+## Hello
+1. Have a good day.
+   1. Thank you. You, too.
+2. Hi. How are you? 
+   1. Pretty good, thanks.
+3. What's up? Oh, 
+   1. not much.
+4. Good morning.
+   1. Good morning.
+   2. 
+## GoodBye
 
+# Part4 Speaking
+
+## Practice
