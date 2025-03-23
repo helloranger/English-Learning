@@ -2,7 +2,7 @@
 ![](1.png)
 ## Questions
 
-![](./2png.png)
+![](./2.png)
 ```
 1. Where are they?
   - They were in the lobby of their appartment.
