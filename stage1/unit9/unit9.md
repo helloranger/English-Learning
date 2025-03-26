@@ -104,3 +104,6 @@ He has curly dark hair. He's about 1 meter 70.
 He doesn't wear glasses now, because he did  eyes surgery ten years ago.
 He often wears class prep at work. He's wearing a black suit and a white shirt.
 He is sitting on the couch.
+
+
+`习惯用法+语法规则`，习惯用法要优先于语法规则
