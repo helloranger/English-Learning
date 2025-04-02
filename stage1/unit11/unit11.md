@@ -3,7 +3,8 @@
 Tips：
 - 形容词（的）
 - 副词（地）
-形容词修饰名词，副词修饰动词、形容词、副词
+
+`形容词修饰名词，副词修饰动词、形容词、副词`
 
 - He runs really fast.
 - He runs faster than me.
