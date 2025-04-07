@@ -1,4 +1,4 @@
-# Grammer
+# Grammar
 意合：（中文）
 形合：（英文）
 ![](./pic/1.png)
