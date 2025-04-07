@@ -10,7 +10,7 @@
 
 `有序来源于受益`
 # Part1 Pronounce  
-![1](./1.png)
+![1](./pic/1.png)
 ```
 - 音节：辅音+元音构成，以元音为核心
 - 学习三部曲：`查，拼，听`
@@ -25,7 +25,7 @@
 - 三步训练法：听，听写，跟读
 
 Meeting and Chatting （会面与闲聊）
-![2](./2.png)
+![2](./pic/2.png)
 ```
 What's your name?
   - My name's ...
@@ -47,7 +47,7 @@ My name is Danielle, but you can call me Dan/but please call me Dan.
 - ⚠️ 不能用逗号连接两个英文句子，可以加个 but。
 
 ## Conversation
-![2](./13.png)
+![2](./pic/13.png)
 ## Questions：
 你是哪里人
 Where are they from respectively?
@@ -74,7 +74,7 @@ last name 姓
 eg：In Chinese culture, the first name is family name.
 
 ## Conversation
-![](./10.png)
+![](./pic/pic/10.png)
 
 This is XXX. These are my workmates.
 
@@ -106,7 +106,7 @@ This is XXX. These are my workmates.
 - nationality 国籍，民族
 
 需要背下来‼️
-![1](./4.png)
+![1](./pic/4.png)
 
 询问国籍
 - Where are you from?
@@ -119,7 +119,7 @@ This is XXX. These are my workmates.
 
 # Part3 Grammer
 需要背下来‼️
-![](./11.png)
+![](./pic/11.png)
 `be动词 + 形容词性物主代词 + 疑问词`
 
 
@@ -131,7 +131,7 @@ This is XXX. These are my workmates.
 我用 am，你用 are， is跟着他她它，复数人称都用 are。
 - `物主代词`：xx的
 
-![1](./6.png)
+![1](./pic/6.png)
 
 
 练习
@@ -143,7 +143,7 @@ This is XXX. These are my workmates.
   3. I'm Angelica, but everyone calls me Angie. My last name is Newton. I'm a student at City College. My parents are on vacation this week.
 ```
 - 特殊疑问词
-![1](./7.png)
+![1](./pic/7.png)
 
 ## Greeting
 
