@@ -58,8 +58,9 @@
       - We didn't arrive until the rain stopped.
 2. pretty   
    - adj. 漂亮的 
-      1. pretty boy
+      - pretty boy
    - adv. = very，修饰形容词
+      - pretty expensive
 3. need 
    - 实意动词，有单三、过去式，后面 + to do
      - You need to hand out the materials.
